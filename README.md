@@ -8,7 +8,7 @@
 ### Giáo trình hàm phức & biến đổi Laplace
 - Tác giả: Ngô Ngọc Hưng; Nguyễn Đức Phương; Lã Ngọc Linh
 - Nhà xuất bản Đại học Công nghiệp TP. HCM
-- Năm xuất bản: 2022
+- Năm xuất bản: 
 - Email: ffs@iuh.edu.vn
 - ISBN:
 - Nới bán: Sinh viên mua tại lớp học 
@@ -17,7 +17,7 @@
 ### Hình thức thi
 | Thường kỳ |Giữa kỳ|Cuối ky|
 |-----------------|---------------|------------|
-|Trắc nghiệm LMS|Tự luận|Tự luận|
+|Tự luận|Tự luận|Tự luận|
 -----
 Bài thi tự luận giảng viên ôn tập theo cấu trúc bên dưới 
 ### Nội dung thi
