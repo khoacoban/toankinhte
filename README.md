@@ -1,6 +1,6 @@
 # Toán cao cấp (khối ngành kinh tế)
 <p align="center">
-  <img width="30%" src="[iuh.png](https://github.com/khoacoban/hamphuc/blob/main/iuh.png)">
+  <img width="30%" src="https://github.com/khoacoban/hamphuc/blob/main/iuh.png">
 </p>
 
 -----
