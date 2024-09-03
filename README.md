@@ -6,8 +6,8 @@
 -----
 
 ### Noi mua giao trinh
-- Giảng viên giới thiệu giáo trình trên lớp học
-- Sinh viên không mua giáo trình giới thiệu, photo bên ngoài
+- Giảng viên giới thiệu giáo trình trên lớp học.
+- Sinh viên không mua giáo trình giới thiệu, photo bên ngoài trường.
 
 ### Giáo trình Toán cao cấp (Kinh tế) 
 - Tác giả: Đoàn Vương Nguyên; Đỗ Hoài Vũ; Lê Văn Lai; Nguyễn Đức Phương (chủ biên)
@@ -19,7 +19,7 @@
 
 -----
 ### Hình thức thi
-| Thường kỳ | Giữa kỳ | Cuối ky |
+| Thường kỳ | Giữa kỳ | Cuối kỳ |
 | --------- | ------- | ------- |
 |    |Trắc nghiệm | Trắc nghiệm |
 -----
