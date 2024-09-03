@@ -22,7 +22,7 @@
 ### Hình thức thi
 | Thường kỳ | Giữa kỳ | Cuối kỳ |
 | --------- | ------- | ------- |
-|    |Trắc nghiệm | Trắc nghiệm |
+|    |Tự luận | Tự luận |
 -----
 
 ### Các sai sót trong giáo trình
