@@ -8,6 +8,7 @@
 ### Nơi mua giáo trình
 - Sinh viên mua giáo trình được giảng viên giới thiệu trên lớp.
 - Sinh viên không mua giáo trình giới thiệu, photo bên ngoài trường.
+- Các giáo trình cũ trước đây không dùng được cho môn học này.
 
 ### Giáo trình Toán cao cấp (Kinh tế) 
 - Tác giả: Đoàn Vương Nguyên; Đỗ Hoài Vũ; Lê Văn Lai; Nguyễn Đức Phương (chủ biên)
