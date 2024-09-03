@@ -5,14 +5,14 @@
 
 -----
 
-### Noi mua giao trinh
+### Nơi mua giáo trình
 - Giảng viên giới thiệu giáo trình trên lớp học.
 - Sinh viên không mua giáo trình giới thiệu, photo bên ngoài trường.
 
 ### Giáo trình Toán cao cấp (Kinh tế) 
 - Tác giả: Đoàn Vương Nguyên; Đỗ Hoài Vũ; Lê Văn Lai; Nguyễn Đức Phương (chủ biên)
 - Nhà xuất bản: 
-- Năm xuất bản: Năm biên soạn 2024
+- Năm biên soạn 2024
 - Email: ffs@iuh.edu.vn
 - ISBN:
 - Nới bán: Sinh viên mua tại lớp học 
