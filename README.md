@@ -12,7 +12,7 @@
 ### Giáo trình Toán cao cấp (Kinh tế) 
 - Tác giả: Đoàn Vương Nguyên; Đỗ Hoài Vũ; Lê Văn Lai; Nguyễn Đức Phương (chủ biên)
 - Nhà xuất bản: 
-- Năm biên soạn 2024
+- Năm biên soạn: 2024
 - Email: ffs@iuh.edu.vn
 - ISBN:
 - Nơi bán: Sinh viên mua tại lớp học 
