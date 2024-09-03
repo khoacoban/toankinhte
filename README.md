@@ -15,7 +15,7 @@
 - Năm biên soạn 2024
 - Email: ffs@iuh.edu.vn
 - ISBN:
-- Nới bán: Sinh viên mua tại lớp học 
+- Nơi bán: Sinh viên mua tại lớp học 
 
 -----
 ### Hình thức thi
