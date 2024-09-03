@@ -6,7 +6,7 @@
 -----
 
 ### Nơi mua giáo trình
-- Giảng viên giới thiệu giáo trình trên lớp học.
+- Sinh viên mua giáo trình được giảng viên giới thiệu trên lớp.
 - Sinh viên không mua giáo trình giới thiệu, photo bên ngoài trường.
 
 ### Giáo trình Toán cao cấp (Kinh tế) 
