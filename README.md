@@ -5,33 +5,30 @@
 
 -----
 
-### Giáo trình hàm phức & biến đổi Laplace
-- Tác giả: Ngô Ngọc Hưng; Nguyễn Đức Phương; Lã Ngọc Linh
-- Nhà xuất bản Đại học Công nghiệp TP. HCM
-- Năm xuất bản: 
+### Noi mua giao trinh
+- Giảng viên giới thiệu giáo trình trên lớp học
+- Sinh viên không mua giáo trình giới thiệu, photo bên ngoài
+
+### Giáo trình Toán cao cấp (Kinh tế) 
+- Tác giả: Đoàn Vương Nguyên; Đỗ Hoài Vũ; Lê Văn Lai; Nguyễn Đức Phương (chủ biên)
+- Nhà xuất bản: 
+- Năm xuất bản: Năm biên soạn 2024
 - Email: ffs@iuh.edu.vn
 - ISBN:
 - Nới bán: Sinh viên mua tại lớp học 
 
 -----
 ### Hình thức thi
-| Thường kỳ |Giữa kỳ|Cuối ky|
-|-----------------|---------------|------------|
-|Tự luận|Tự luận|Tự luận|
+| Thường kỳ | Giữa kỳ | Cuối ky |
+| --------- | ------- | ------- |
+|    |Trắc nghiệm | Trắc nghiệm |
 -----
-Bài thi tự luận giảng viên ôn tập theo cấu trúc bên dưới 
-### Nội dung thi
-
-|  Năm học |Kỳ thi|File mẫu|
-|-----------------|---------------|------------|
-|2022-2023| Giữa học kỳ 1|[Tải file](https://github.com/khoacoban/hamphuc/raw/main/huongdanontap/20222023.HK1.1GK.HamPhuc.pdf) |
-|2022-2023| Cuối học kỳ 1|[Tải file](https://github.com/khoacoban/hamphuc/raw/main/huongdanontap/20222023.HK1.2CK.HamPhuc.pdf) |
-------
 
 ### Các sai sót trong giáo trình
-|Trang           | dòng  | Lỗi         |Chỉnh sửa|
-|----------------|-------|-------------|---------|
-
+| Trang | dòng | Lỗi                           | Chỉnh sửa                     |
+| ----- | ---- | ----------------------------- | ----------------------------- |
+| 89    | -9   | $21,24$                       | $21,24a$                      |
+| 174   | -1   | $P=Q_\mathrm{D}^{-1}(P)=P(Q)$ | $P=Q_\mathrm{D}^{-1}(Q)=P(Q)$ |
 -----
 
 ### Phản hồi từ đọc giả
